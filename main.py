@@ -3,7 +3,7 @@ import numpy as np
 # main menu
 print("EE Suite (Python Edition)")
 print(" - By: Adin Ackerman")
-# time.sleep(1.5)
+time.sleep(1.5)
 for i in range(100):
     print("")
 
